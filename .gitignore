@@ -15,4 +15,4 @@
 .env
 
 # will not send the client folder pushed on github
-/client
+# /client
